@@ -38,7 +38,7 @@
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
           <a href="http://docs.oracle.com/cloud/latest/apaas_gs/index.html"
-            target="_blank" style="color: #ffffff">Oracle Application
+            target="_blank" style="color: #ffffff">Oracle Jimy Application
             Container Cloud Service</a>
         </h1>
         <h2 class="blueBannerSubTitle">Easy, rapid and agile deployment
